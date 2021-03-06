@@ -1,0 +1,5 @@
+  //manjinderSir
+    implementation 'com.github.manjhi:util_repo:0.1.2'
+
+    //rating graph
+    implementation 'com.github.Inconnu08:android-ratingreviews:1.0.0'
